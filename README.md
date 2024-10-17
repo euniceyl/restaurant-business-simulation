@@ -1,6 +1,6 @@
 # Restaurant Business Simulation
 
-A probabilistic modeling project of a hypothetical new restaurant opening, with the primary aim of optimizing customer satisfaction and profit depending on the number of chefs hired and duration of down-time allocation during the working day.
+A probabilistic modeling project of a hypothetical new restaurant opening, with the primary aim of optimizing customer satisfaction and profit depending on the number of chefs hired and duration of down-time allocation during the working day. We used R for modeling in this analysis.
 
 **Scenario 1:**
 Consider the simple setting with one dining table and one chef, with operating hours 10am - 10pm. Suppose customers arrive according to a Poisson process with a rate of λ<sub>A</sub> = 5 per hour. Once a customer arrives, their total service time (ordering, cooking and eating) can be modeled by an exponential distribution with rate λ<sub>S</sub> = 6.
